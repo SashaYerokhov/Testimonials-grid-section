@@ -179,7 +179,7 @@ body {
     .cards {
         width: 23.4375rem;
         min-height: 114.375rem;
-        margin: 4.375rem 0;
+        margin: 4.375rem auto;
         grid-template-columns: 20.3125rem;
         grid-template-rows: 1fr;
         gap: 20px;
